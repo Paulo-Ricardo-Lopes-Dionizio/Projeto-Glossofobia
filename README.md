@@ -35,6 +35,15 @@ A proposta é proporcionar um meio de enfrentamento gradual da fobia social, per
 - Repetir e praticar diferentes tipos de discursos.
 
 ---
+## 📸 Imagens do Projeto
+
+| Cena do Jogo | Descrição |
+|--------------|-----------|
+| ![Cena 1](imagens/cena1.png) | **Fase Teatro/Palestra.**<br>Apresentação em Palestra, para quem passou no nível da escola pode ir nessa fase para testar como seria em palco. |
+| ![Cena 2](imagens/cena2.png) | **Fase Escola.**<br>Apresentação em escola. |
+| ![Cena 3](imagens/cena3.png) | **Seleção de "Desafio".**<br>Feito para escolher a fase de acordo com seu preparo. |
+
+---
 
 ## 👨‍💻 Desenvolvedores
 
