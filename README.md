@@ -42,10 +42,54 @@ A proposta é proporcionar um meio de enfrentamento gradual da fobia social, per
 | ![Cena 1](imagens/1.png) | **Fase Teatro/Palestra.**<br>Apresentação em Palestra, para quem passou no nível da escola pode ir nessa fase para testar como seria em palco. |
 | ![Cena 2](imagens/2.png) | **Fase Escola.**<br>Apresentação em escola. |
 | ![Cena 3](imagens/3.png) | **Seleção de "Desafio".**<br>Feito para escolher a fase de acordo com seu preparo. |
+## 🧩 **Recursos Utilizados**
+
+| Ferramenta | Utilização |
+|-------------|------------|
+| **Unity 2022 LTS** | Engine principal de desenvolvimento |
+| **Meta Quest 2 SDK** | Suporte à Realidade Virtual |
+| **C# Scripts** | Lógica de jogo, interações e animações |
+| **Assets 3D Low Poly** | Modelagem e ambientação |
+| **VR Interaction Toolkit** | Controle de mãos e movimento |
 
 ---
 
-## 👨‍💻 Desenvolvedores
+## 👥 **Equipe de Desenvolvimento**
 
-- **Paulo Ricardo Lopes Dionizio**
-- **Fernando Toniza**
+| Integrante | Função |
+|-------------|---------|
+| **Paulo Ricardo Lopes Dionizio** | Programação VR • Documentação ABNT • Level Design |
+| **Fernando Nicoletti Toniza** | Modelagem 3D • Interface VR • Planejamento das Fases |
+| **Prof. Vinicius Santos Andrade** | Orientador da Disciplina de Realidade Virtual |
+
+---
+
+## 📚 **Referências**
+
+- Valeiro, L. dos Santos; Ferreira, M. C. — *Realidade Virtual: Definições, Dispositivos e Aplicações*  
+- Cunha, V.; Leitão, M. — *Sistema de Realidade Virtual para Tratamento de Fobias*  
+- Mendes, V. de N. — *Realidade Virtual no Tratamento da Fobia*  
+- Thomaz, R.; Regine, M.; Egidio, A. — *Exposição por Realidade Virtual no Tratamento do Medo de Dirigir*  
+- Almeida, A.; Lima, C.; Maciel, A.; Amaral, A. — *Tecnologias Digitais para Transtornos de Ansiedade*
+
+---
+
+## 🎥 **Demonstração do Projeto**
+
+> 🔗 *[Video demonstração](https://www.youtube.com/watch?v=ksJhUnf40MA)*  
+---
+
+## 💬 **Conclusão**
+
+O **Glossofobia VR** é uma proposta que une **realidade virtual ** e **treinamento oratória**.  
+Com imersão e prática, o projeto busca **ajudar pessoas a vencer o medo de falar em público**, tornando-se uma ferramenta de apoio ao **crescimento pessoal e profissional**.
+
+---
+
+## 🏷️ **Licença**
+
+Este projeto é de caráter **acadêmico**, desenvolvido para fins **educacionais e de pesquisa**.  
+© 2024 — Centro Universitário Sagrado Coração (USC)  
+👨‍💻 Desenvolvido por **Paulo Ricardo Lopes Dionizio** & **Fernando Nicoletti Toniza**
+
+---
